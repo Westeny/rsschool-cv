@@ -1,3 +1,3 @@
 # rsschool-cv
 
-https://Westeny.github.io/rsschool-cv/cv
+https://Westeny.github.io/rsschool-cv/
